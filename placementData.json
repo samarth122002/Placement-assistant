@@ -1,0 +1,27 @@
+json
+[
+  {
+    "company": "Lovata",
+    "role": "Mechanics",
+    "education": "High School, Diploma",
+    "posts": 50
+  },
+  {
+    "company": "Toyota Kirloskar",
+    "role": "Apprentice",
+    "education": "ITI, NCVT/SCVT",
+    "posts": 75
+  },
+  {
+    "company": "Wipro",
+    "role": "Developer",
+    "education": "B.Sc/BCA/B.E/B.Tech",
+    "posts": 60
+  },
+  {
+    "company": "Adhik Industries Pvt Ltd",
+    "role": "Production",
+    "education": "ITI Fitter",
+    "posts": 100
+  }
+]
